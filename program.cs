@@ -1,4 +1,4 @@
-// Version 2 - Added validation improvements
+// Version 3 - Final checkout and discount logic
 using System;
 
 class Product
