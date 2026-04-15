@@ -1,4 +1,5 @@
-﻿using System;
+// Version 2 - Added validation improvements
+using System;
 
 class Product
 {
