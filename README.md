@@ -27,3 +27,19 @@ It allows users to select products, enter quantities, and manage a shopping cart
 
 ## Author
 Rayven Malabanan
+
+## AI Usage in This Project
+AI was used to assist in:
+- Structuring the program using classes and objects
+- Implementing input validation using int.TryParse()
+- Designing the cart system and logic
+
+Prompts used:
+- "Create a C# shopping cart system using classes"
+- "How to validate user input in C#"
+- "How to prevent duplicate items in a cart"
+
+Changes made after using AI:
+- Simplified variable names
+- Adjusted logic to match project requirements
+- Improved output formatting
