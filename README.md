@@ -4,10 +4,6 @@
 This project is a console-based Shopping Cart System developed in C#.  
 It allows users to select products, enter quantities, and manage a shopping cart with stock validation.
 
-This Project is developed in 2 parts:
-Part 1 - Shopping Cart Core System
-Part 2 - Enhancements and Code Improvements
-
 ## Features
 - Display product menu
 - Input validation (product number and quantity)
@@ -20,20 +16,9 @@ Part 2 - Enhancements and Code Improvements
 - Displays receipt and final total
 - Shows updated remaining stock after checkout
 
-## Part 2 Enhancements
-- Improved code structure using object-oriented programming (classes and objects)
-- Cleaner and more organized Program.cs
-- Refactored cart logic for better readability
-- Improved separation of responsibilities between classes (Product, CartItem, etc.)
-- Fixed and organized project structure after initial setup issues
-- Improved maintainability for future enhancements
-
 ## Files Included
 - Program.cs (main program)
 - Flowchart.png (program flowchart)
-- CartItem.cs
-- OrderHistory.cs
-- Product.cs
 
 ## How to Run
 1. Open the project in Visual Studio or any C# IDE
